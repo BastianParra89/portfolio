@@ -425,10 +425,10 @@ color: var(--first-color-alt);
   transform: rotate(-180deg);
 }
 
-/*==================== QUALIFICATION ====================*/
-
-
-/*==================== SERVICES ====================*/
+.skills__span {
+  color:var(--first-color);
+  font-weight: 100px;
+}
 
 
 /* Active Modal */
@@ -519,6 +519,7 @@ color: var(--first-color-alt);
   font-size: var(--small-font-size);
   color: var(--text-color-light);
 }
+
 
 
 
